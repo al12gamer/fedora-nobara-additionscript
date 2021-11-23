@@ -10,7 +10,6 @@ PACKAGE_LIST=(
 	steam
 	vlc
 	mcomix3
-	qbittorrent
 	htop
 	gnome-boxes
 	handbrake
@@ -25,7 +24,7 @@ PACKAGE_LIST=(
 	java-latest-openjdk
 	wine
 	winetricks
-  discord
+  	discord
 	linux-util-user
 	fwupd
 	radeontop
@@ -37,6 +36,8 @@ FLATPAK_LIST=(
 	org.telegram.desktop
 	com.mojang.Minecraft
 	net.veloren.airshipper
+	de.haeckerfelix.Fragments
+	org.gnome.Polari.flatpakref
 )
 
 # gnome settings
