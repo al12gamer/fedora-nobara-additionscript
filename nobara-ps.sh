@@ -12,7 +12,6 @@ PACKAGE_LIST=(
 	mcomix3
 	htop
 	gnome-boxes
-	handbrake
 	gnome-tweaks
 	gnome-shell-extension-pop-shell
 	python3
@@ -28,7 +27,6 @@ PACKAGE_LIST=(
 	linux-util-user
 	fwupd
 	radeontop
-	dnfdragora
 )
 
 FLATPAK_LIST=(
@@ -37,7 +35,6 @@ FLATPAK_LIST=(
 	com.mojang.Minecraft
 	net.veloren.airshipper
 	de.haeckerfelix.Fragments
-	org.gnome.Polari.flatpakref
 )
 
 # gnome settings
