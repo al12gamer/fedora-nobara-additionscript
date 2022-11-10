@@ -13,15 +13,11 @@ PACKAGE_LIST=(
 	gnome-boxes
 	gnome-tweaks
 	gnome-shell-extension-pop-shell
-	python3
-	python3-pip
 	youtube-dl
 	neofetch
 	pv
 	wget
 	java-latest-openjdk
-	wine
-	winetricks
   	discord
 	linux-util-user
 	fwupd
