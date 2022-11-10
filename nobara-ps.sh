@@ -25,7 +25,6 @@ PACKAGE_LIST=(
   	discord
 	linux-util-user
 	fwupd
-	radeontop
 )
 
 FLATPAK_LIST=(
