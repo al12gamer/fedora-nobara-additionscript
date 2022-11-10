@@ -85,6 +85,7 @@ done
 pip install protonup
 
 # add Mullvad
+cd ..
 cd Downloads
 wget --content-disposition https://mullvad.net/download/app/rpm/latest
 cd
