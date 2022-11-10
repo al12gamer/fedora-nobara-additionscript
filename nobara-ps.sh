@@ -3,7 +3,6 @@
 PACKAGE_LIST=(
 	vim
 	calibre
-	codium
 	fish
 	fira-code-fonts
 	lutris
@@ -32,6 +31,7 @@ PACKAGE_LIST=(
 FLATPAK_LIST=(
 	com.mojang.Minecraft
 	net.veloren.airshipper
+	com.vscodium.codium
 )
 
 # gnome settings
