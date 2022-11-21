@@ -11,8 +11,6 @@ PACKAGE_LIST=(
 	mcomix3
 	htop
 	gnome-boxes
-	gnome-tweaks
-	gnome-shell-extension-pop-shell
 	youtube-dl
 	neofetch
 	pv
