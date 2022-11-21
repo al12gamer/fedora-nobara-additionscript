@@ -79,11 +79,6 @@ for flatpak_name in ${FLATPAK_LIST[@]}; do
 done
 
 
-# add fish
-
-# add protonup (now that prerequisites are fulfilled)
-pip install protonup
-
 # add Mullvad
 cd ..
 cd Downloads
