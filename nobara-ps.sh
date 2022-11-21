@@ -18,7 +18,6 @@ PACKAGE_LIST=(
 	pv
 	wget
 	java-latest-openjdk
-  	discord
 	linux-util-user
 	fwupd
 )
