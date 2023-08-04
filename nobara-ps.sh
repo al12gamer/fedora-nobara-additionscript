@@ -21,7 +21,7 @@ PACKAGE_LIST=(
 )
 
 FLATPAK_LIST=(
-	com.mojang.Minecraft
+	org.prismlauncher.PrismLauncher
 	net.veloren.airshipper
 )
 
