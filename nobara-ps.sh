@@ -18,6 +18,7 @@ PACKAGE_LIST=(
 	java-latest-openjdk
 	linux-util-user
 	fwupd
+ 	android-tools
 )
 
 FLATPAK_LIST=(
