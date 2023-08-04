@@ -12,7 +12,7 @@ PACKAGE_LIST=(
 	htop
 	gnome-boxes
 	youtube-dl
-	neofetch
+	fastfetch
 	pv
 	wget
 	java-latest-openjdk
