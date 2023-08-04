@@ -12,16 +12,17 @@ PACKAGE_LIST=(
 	htop
 	gnome-boxes
 	youtube-dl
-	neofetch
+	fastfetch
 	pv
 	wget
 	java-latest-openjdk
 	linux-util-user
 	fwupd
+ 	android-tools
 )
 
 FLATPAK_LIST=(
-	com.mojang.Minecraft
+	org.prismlauncher.PrismLauncher
 	net.veloren.airshipper
 )
 
@@ -48,6 +49,12 @@ sudo dnf install fontconfig-enhanced-defaults fontconfig-font-replacements -yq
 
 # add flathub repository
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+# add brave browser for chromium testing pages
+sudo dnf install dnf-plugins-core -yq
+sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/x86_64/
+sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
+sudo dnf install brave-browser -yq
 
 # add third party software
  

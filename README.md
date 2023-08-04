@@ -1,7 +1,7 @@
 # fedora-nobara-additionscript
-My script to run after installing Fedora-Nobara from GloriousEggroll
+My script to run after installing Fedora-Nobara from GloriousEggroll, without changing any of the work he's done. Just adding my own stuff.
 
-## quick start
+## Quick Start
 ```
 git clone https://github.com/al12gamer/fedora-nobara-additionscript.git
 cd fedora-nobara-additionscript
